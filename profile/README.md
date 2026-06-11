@@ -1,4 +1,4 @@
-# AXSOL's Forbidden Tools
+# AXSOL's forbidden tools
 
 ⚠️ Internal tooling and utilities used by selected
 AXSOL engineers.
