@@ -1,4 +1,4 @@
-# AXSOL's Forbidden Tools
+# AXSOL's forbidden tools
 
 ![](./import/logo.png)
 
