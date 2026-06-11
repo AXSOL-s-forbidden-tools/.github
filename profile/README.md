@@ -1,5 +1,7 @@
 # AXSOL's Forbidden Tools
 
+![](./import/logo.png)
+
 ⚠️ Internal tooling and utilities used by selected
 AXSOL engineers.
 
