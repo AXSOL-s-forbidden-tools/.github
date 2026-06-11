@@ -1,6 +1,8 @@
 # AXSOL's forbidden tools
 
-![](./import/logo.png)
+<p align="center">
+  <img src="./import/logo.png" width="300">
+</p>
 
 ⚠️ Internal tooling and utilities used by selected
 AXSOL engineers.
